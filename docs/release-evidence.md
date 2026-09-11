@@ -13,6 +13,7 @@ This file is the release evidence index for the platform repository.
 - MCP registry: 45 tools registered, including project creation, PCB setup, ERC, and DRC.
 - MCP smoke workflow: temporary KiCad project creation succeeded; 50 × 40 mm PCB outline setup succeeded; ERC passed; DRC passed.
 - Cline MCP settings: command and environment verified; `KICAD_CLI` is pinned to `/opt/homebrew/bin/kicad-cli`.
+- GitHub CLI: `gh` 2.100.0 installed; browser authentication is pending, so no remotes or pushes have been created.
 - Product code: None included in this repository.
 - Human release approval: Pending; this is a foundation commit, not a product release.
 
