@@ -14,4 +14,4 @@ This repository supports reusable ESPHome packages, KiCad libraries, automation 
 
 ## Operating boundary
 
-Use AI for candidate generation, parsing, validation reports, and documentation assistance. Do not treat generated KiCad output as approved hardware. Do not infer GPIOs or electrical ratings from a symbol name alone.
+Use AI for candidate generation, parsing, validation reports, and documentation assistance. The modern-Python MCP server startup, 45-tool registry, project creation, PCB outline setup, ERC, and DRC workflow are validated. Do not treat generated KiCad output as approved hardware, and do not infer GPIOs or electrical ratings from a symbol name alone.

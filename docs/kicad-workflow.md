@@ -9,6 +9,10 @@
 5. Run `kicad-cli` ERC/DRC checks and review the report.
 6. Require human approval for final connections, placement, routing, safety, and release.
 
+## Validation status
+
+The modern-Python MCP server starts successfully, exposes 45 tools, and completed a temporary workflow covering project creation, a 50 × 40 mm PCB outline, ERC, and DRC. This validates the text-parser and `kicad-cli` path only.
+
 ## Local tools
 
 - KiCad: `/Applications/KiCad/KiCad.app`

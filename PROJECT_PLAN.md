@@ -26,4 +26,4 @@
 
 ## Current status
 
-Phase 1 foundation is being initialized. No product-specific implementation is included.
+Phase 1 foundation is initialized. The MCP/KiCad foundation workflow has been validated with project creation, PCB outline setup, ERC, and DRC. No product-specific implementation is included; Phase 2 remains gated on approved product requirements.
